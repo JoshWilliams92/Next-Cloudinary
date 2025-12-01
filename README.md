@@ -1,8 +1,11 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Prerequisites
+Node.js => v22 16.0
 ## Getting Started
 
-First, run the development server:
+First, run npm install.
+Secondly, run the development server:
 
 ```bash
 npm run dev
@@ -19,6 +22,24 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+
+## Original Image
+![Original](/public/assets/Original.png)
+
+## Cartoonify Image
+![Original](/public/assets/Cartoonify.png)
+
+## Crop to Square Image
+![Original](/public/assets/Crop to Square.png)
+
+## Text to Overlay Image
+![Original](/public/assets/Text to Overlay.png)
+
+## Image Roate Change
+![Original](/public/assets/Image Roate Change.png)
+
+## Image Size Change
+![Original](/public/assets/Image Size Change.png)
 
 ## Learn More
 
