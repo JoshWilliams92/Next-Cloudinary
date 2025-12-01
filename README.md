@@ -30,16 +30,16 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 ![Original](/public/assets/Cartoonify.png)
 
 ## Crop to Square Image
-![Original](/public/assets/Crop to Square.png)
+![Original](/public/assets/CroptoSquare.png)
 
 ## Text to Overlay Image
-![Original](/public/assets/Text to Overlay.png)
+![Original](/public/assets/TextToOverlay.png)
 
-## Image Roate Change
-![Original](/public/assets/Image Roate Change.png)
+## Image Rotate Change
+![Original](/public/assets/ImageRotateChange.png)
 
 ## Image Size Change
-![Original](/public/assets/Image Size Change.png)
+![Original](/public/assets/ImageSizeChange.png)
 
 ## Learn More
 
