@@ -30,8 +30,11 @@ yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
 
-# env files (can opt-in for committing if needed)
+# environment variables
+# → ignore ALL env files by default
 .env*
+# → but allow committing a safe example/template if you want
+!.env.example
 
 # vercel
 .vercel
@@ -39,3 +42,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# IDE / editor directories (optional but nice to have)
+.idea/
+.vscode/
+*.swp
+*.swo
